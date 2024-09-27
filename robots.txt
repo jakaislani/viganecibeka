@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://viganecibeka.netlify.app/sitemap.xml
